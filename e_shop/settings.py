@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-31*r11&o8o(5c8=x4_!m$a2tsf&g*9!s!obq1e9ae@2f#3cr)e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-mihaielisei-e-shop-v20-nj4e5796t8.us2.codeanyapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
